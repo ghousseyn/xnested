@@ -1,8 +1,9 @@
 <?php
 
 namespace Xnested;
+use CActiveRecord;
 
-class CActiveRecordTransactions
+class CActiveRecordTransactions extends CActiveRecord
 {
     /**
      * Keeps transaction status (true if previous transaction, transaction if
