@@ -1,0 +1,13 @@
+{
+    "name": "ghousseyn/xnested",
+    "description": "Yii active record nested transactions",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Housseyn Guettaf",
+            "email": "ghoucine@gmail.com"
+        }
+    ],
+    "require": {}
+}
