@@ -1,5 +1,6 @@
 <?php
 
+namespace Xnested;
 
 class CActiveRecordTransactions
 {
