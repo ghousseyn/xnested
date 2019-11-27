@@ -9,5 +9,8 @@
             "email": "ghoucine@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {"Xnested\\": "src/"}
+    }
 }
